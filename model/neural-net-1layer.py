@@ -50,7 +50,7 @@ with graph.as_default():
     tf_valid_dataset = tf.constant(valid_dataset)
     tf_test_dataset = tf.constant(test_dataset)
 
-    num_neurons = 2048
+    num_neurons = 1024
 
     # Variables.
     weights = { 'layer' : tf.Variable(tf.truncated_normal([image_size * image_size, num_neurons])) ,
