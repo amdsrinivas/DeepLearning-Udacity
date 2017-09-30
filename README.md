@@ -1,7 +1,7 @@
 # DeepLearning-Udacity
 Udacity course on DeepLearning
 
-Use udacity/ jupyter notebooks to  download the datasets.
+Use udacity/ jupyter notebooks to  download the datasets. (Finsh 1_notMNIST notebook first.)
 
 model/model_building.py uses LogisticRegression of sklearn
 
